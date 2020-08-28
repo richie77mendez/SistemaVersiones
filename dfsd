@@ -1,0 +1,37 @@
+[33mcommit 0ae392ad3ea42e2d08e40b0efc759327859c6e2d[m
+Author: ricardo mendez <augustoricardo-mendezpum@cunoc.edu.gt>
+Date:   Thu Aug 27 18:48:34 2020 -0600
+
+    Revert "Initial commit"
+    
+    This reverts commit 17b2903251e30d33c248fafb9abdd4f187e70707.
+
+[33mcommit 78582cb2babbe412633700fe81a670afea4ba96a[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: ricardo mendez <augustoricardo-mendezpum@cunoc.edu.gt>
+Date:   Thu Aug 20 19:15:11 2020 -0600
+
+    desde feautre 2.0
+
+[33mcommit fc5cddf3d82bcb28051ed3e37e8428e9eb58ccfb[m
+Author: ricardo mendez <augustoricardo-mendezpum@cunoc.edu.gt>
+Date:   Thu Aug 20 19:10:33 2020 -0600
+
+    desde feature
+
+[33mcommit 079ff5f03a3c959cf09c8095dc383a5a9d0b0593[m
+Author: ricardo mendez <augustoricardo-mendezpum@cunoc.edu.gt>
+Date:   Thu Aug 20 19:09:04 2020 -0600
+
+    desde master 2
+
+[33mcommit a6cd3cbd3b9c9ccac119e1c1927a7dcc891defc1[m
+Author: ricardo mendez <augustoricardo-mendezpum@cunoc.edu.gt>
+Date:   Thu Aug 20 19:08:06 2020 -0600
+
+    desde master
+
+[33mcommit 17b2903251e30d33c248fafb9abdd4f187e70707[m
+Author: richie77mendez <41708185+richie77mendez@users.noreply.github.com>
+Date:   Thu Aug 20 19:05:43 2020 -0600
+
+    Initial commit
